@@ -1,0 +1,19 @@
+Réponds aux questions suivantes en séparant chacune par une ligne vide :
+1. Connais-tu le personnage intitulé: {{character}} de l'univers {{univers}}? Réponse possible: Oui, Non
+
+2. Le personnage et la description suivantes respectent-ils les règles du site :
+Personnage: {{character}}
+Description: {{description}}
+Règles du site :
+1. Aucun contenu incitant à la haine ou à la discrimination basée sur la race, la religion, l'ethnie, le sexe, ou toute autre caractéristique personnelle ne sera toléré.
+2. Tout contenu à caractère pornographique est strictement interdit.
+3. Aucun contenu illégal ou encourageant des activités illégales ne sera toléré.
+Réponses possibles: Oui, Non
+
+3. Génère un prompt détaillé pour créer une image du personnage: {{character}}.
+Pour t'aider à être plus précis et pertinent, voici la description de l'univers : {{description}}
+L'image doit représenter fidèlement le personnage, en prenant soin de respecter ses caractéristiques uniques.
+Réponse attendue : juste le prompt.
+
+Enfin fais-moi une description détaillée de ce personnage.
+Réponse attendue : juste la description.

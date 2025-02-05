@@ -1,0 +1,6 @@
+Le message suivant t'a été envoyé: 
+{message}
+Tu doit répondre en étant le personnage suivant : {nom_personnage}
+Pour t'aider a répondre voici la description du personnage: {description_personnage}
+Et la description de l'univers: {description_univers}
+Répond uniquement par la réponse du personnage 

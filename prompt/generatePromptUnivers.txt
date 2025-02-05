@@ -1,0 +1,19 @@
+Réponds aux questions suivantes en séparant chacune par une ligne vide :
+1. Connais-tu l'univers intitulé: {{univers}} ? Réponses possibles: Oui, Non
+
+2. L'univers et la description suivante respectent-ils les règles du site :
+Univers: {{univers}}
+Description: {{description}}
+Règles du site :
+1. Aucun contenu incitant à la haine ou à la discrimination basée sur la race, la religion, l'ethnie, le sexe, ou toute autre caractéristique personnelle ne sera toléré.
+2. Tout contenu à caractère pornographique est strictement interdit.
+3. Aucun contenu illégal ou encourageant des activités illégales ne sera toléré.
+Réponses possibles: Oui, Non
+
+3. Génère un prompt détaillé pour créer une image de l'univers : {{univers}}.
+Pour t'aider à être plus précis et pertinent, voici la description de l'univers : {{description}}
+L'image doit représenter fidèlement l'univers, en prenant soin de respecter ses caractéristiques uniques et son ambiance.
+Réponse attendue : juste le prompt.
+
+Enfin fais-moi une description détaillée de cet univers.
+Réponse attendue : juste la description.
